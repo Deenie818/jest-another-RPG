@@ -1,6 +1,4 @@
 
-const { expect } = require('expect');
-const { test } = require('picomatch');
 const Potion = require('../lib/Potion.js');
 
 test('creates a health potion object', () => {
